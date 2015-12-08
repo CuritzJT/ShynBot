@@ -1,0 +1,7 @@
+[
+    {
+        "name": "help",
+        "content": {
+            "default": "__**Hey there! im Shyn, a bot made by CJ and Muzzy! YOu mentioned this because either: \n A) You have no clue                           that this is a bot or \n B) You need help. Well, here is a list of commands. (psst! the prefix is `$!` ;))**List                         of __PREFIX__ commands:** \n *Ping = Pong! * \n *Say = Make me say something! (Don't spam it though, you could get                        banned from the channel!)* \n *Rawr = ;-;* \n *Ban {user} = Ban's the mentioned user(s)* \n *Status = What's the                         bot statistics?*"
+        }
+    },
