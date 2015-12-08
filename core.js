@@ -5,11 +5,15 @@ var client = new Discord.Client();
 
 client.on("ready", function(ready){
   bot.setUsername("Shyn");
-  bot.setStatus("online", "half life 2");
+  bot.setStatus("idle", "half life 2");
 });
 
 client.on("message", function(message){
-  
+loadScript("cake.js")
+}
+
+sendMessages(channelID, ["*throws " + say_this_cake + " a " + ]);
+} 
 });
 
 client.login(auth.email, auth.pass);
